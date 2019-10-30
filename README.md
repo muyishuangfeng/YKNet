@@ -1,4 +1,4 @@
 # YKNet
+[![](https://jitpack.io/v/muyishuangfeng/YKNet.svg)](https://jitpack.io/#muyishuangfeng/YKNet)
 
-
-    implementation 'com.github.muyishuangfeng:YKNet:1.0.1'
+    implementation 'com.github.muyishuangfeng:YKNet:lastVersion'
