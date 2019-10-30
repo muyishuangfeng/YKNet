@@ -1,0 +1,2 @@
+include ':YKNet'
+rootProject.name='YKSDKNet'
